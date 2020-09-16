@@ -1,0 +1,24 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+a{
+	text-decoration:none;
+	color:black;
+}
+ul{
+	list-style:none;
+}
+.container{
+	width:1350px;
+	margin:0 auto;
+}
+.marquee{
+    background-color: aqua;
+    color: azure;
+    text-align: justify;
+    font-size: 30px;
+}
+body {
+    background-image: url('img/b.jpg');
+  }
